@@ -1,0 +1,173 @@
+<!----- Conversion time: 2.2 seconds.
+
+
+Using this HTML file:
+
+1. Cut and paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* gd2md-html version 1.0β10
+* Thu Mar 08 2018 01:08:42 GMT-0800 (PST)
+* Source doc: https://docs.google.com/open?id=16MPW3dZX005qsP1j1z1v1hSr0MHnxTZlnOn3QQOEigA
+----->
+
+
+<p>
+<strong>DS101: Building Blocks of Data-Science (Spring' 2018)</strong>
+</p>
+<p>
+<strong>Instructor:</strong> <a href="http://stillhungry.in/">Mohit Saini</a>
+</p>
+<p>
+<strong>About:</strong> Title of course not to be confused with <em>"Application of data-science"</em> or <em>"ML & AI"</em> or <em>"Application of ML" </em>or<em> "Data-Analytics" </em>or<em> "Data-Science in Business"</em>.
+</p>
+<p>
+<strong>Course Description:</strong> One of the fundamental building block of data-science is algorithm designing. This course will contain significant content in art of algorithm designing. Then course will move toward combining those algorithms and mathematics to solve proposed problems. We will slowly move toward the direction of learning. You will be offered opportunity to design your own ML algorithms using modern tools. Assignments would be around competing among  yourself ( students ) on the matrix of precision and recall.
+</p>
+<p>
+As a bonus to this course, last lecture will be around "briefing with modern tools and modern progress in ML". Exposure to techniques like Linear Regression, Logistic regression, Clustering,  Deep Learning ( mainly in NLP and Image Processing), and lots of other ML techniques used nowadays. Same lecture will also cover quick explanation on "how these techniques can help in real world problems". + You will be given lots of content to read on it.
+</p>
+<p>
+<strong>Prereq</strong>: Basic knowledge of Mathematics, Commitment for self-study and assignments.
+</p>
+<p>
+<strong>Course Requirements:</strong>
+</p><ol>
+
+<li>1 hour weekly lecture
+<li>Roughly 5-10 hour per weekend for homework/assignments.</li></ol>
+
+<p>
+<strong>Lectures Schedule: </strong>
+</p>
+
+<table>
+  <tr>
+   <td><strong>Lecture</strong>
+   </td>
+   <td><strong>When</strong>
+   </td>
+   <td><strong>Where</strong>
+   </td>
+   <td><strong>What</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Lecture-1
+   </td>
+   <td><strong>4 PM, March 8<br>
+</strong>(expected)
+   </td>
+   <td>Conference Room (expected)
+   </td>
+   <td><a href="https://drive.google.com/open?id=1gllhF6XSTR14Td8SzQBVtMTbBxgfti_J">Intro to Probability Theory</a>
+   </td>
+  </tr>
+  <tr>
+   <td>Lecture-2
+   </td>
+   <td>TBD
+   </td>
+   <td>Conference Room (expected)
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Lecture-3
+   </td>
+   <td>TBD
+   </td>
+   <td>Conference Room (expected)
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Lecture-4
+   </td>
+   <td>TBD
+   </td>
+   <td>Conference Room (expected)
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Lecture-5
+   </td>
+   <td>TBD
+   </td>
+   <td>Conference Room (expected)
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Lecture-6
+   </td>
+   <td>TBD
+   </td>
+   <td>Conference Room (expected)
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Lecture-7
+   </td>
+   <td>TBD
+   </td>
+   <td>Conference Room (expected)
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Lecture-8
+   </td>
+   <td>TBD
+   </td>
+   <td>Conference Room (expected)
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Lecture-9
+   </td>
+   <td>TBD
+   </td>
+   <td>Conference Room (expected)
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Lecture-10
+   </td>
+   <td>TBD
+   </td>
+   <td>Conference Room (expected)
+   </td>
+   <td>
+   </td>
+  </tr>
+</table>
+
+
+<p>
+<strong>Reference Book: "<em>Foundation of Data Science"</em></strong> by "<em>Kannan and Hopcroft</em>". ( Downloadable version publically available <a href="https://www.cs.cornell.edu/jeh/NOSOLUTIONS90413.pdf">here</a> )
+</p>
+<p>
+<strong>Communication</strong>: Please join the slack channel "<em>ds-building-blocks</em>".
+</p>
+<p>
+<strong>Guidelines</strong>
+</p><ol>
+
+<li>One should attend all the lectures. If a lecture is missed due to some reason, please cover it up before next lecture. Because you won't be able to understand new lectures unless previous lectures are well understood.</li></ol>
