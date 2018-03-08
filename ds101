@@ -1,4 +1,4 @@
-<!----- Conversion time: 1.868 seconds.
+<!----- Conversion time: 2.241 seconds.
 
 
 Using this HTML file:
@@ -11,7 +11,7 @@ Using this HTML file:
 Conversion notes:
 
 * gd2md-html version 1.0β10
-* Thu Mar 08 2018 01:45:29 GMT-0800 (PST)
+* Thu Mar 08 2018 01:46:01 GMT-0800 (PST)
 * Source doc: https://docs.google.com/open?id=16MPW3dZX005qsP1j1z1v1hSr0MHnxTZlnOn3QQOEigA
 ----->
 
@@ -26,8 +26,7 @@ Conversion notes:
 <strong>About:</strong> Title of course not to be confused with <em>"Application of data-science"</em> or <em>"ML & AI"</em> or <em>"Application of ML" </em>or<em> "Data-Analytics" </em>or<em> "Data-Science in Business"</em>.
 </p>
 <p>
-<strong>Course Description:</strong> One of the fundamental building block of data-science is algorithm designing. This course will contain significant content in art of algorithm designing. Then course will move toward combining those algorithms and mathematics to solve proposed problems. We will slowly move toward the direction of learning. You will be offered opportunity to design your own ML algorithms using modern tools. Assignments would be around competing among  yourself ( students ) on the matrix of precision and recall. <br>
-As a bonus to this course, last lecture will be around "briefing with modern tools and modern progress in ML". Exposure to techniques like Linear Regression, Logistic regression, Clustering,  Deep Learning ( mainly in NLP and Image Processing), and lots of other ML techniques used nowadays. Same lecture will also cover quick explanation on "how these techniques can help in real world problems". + You will be given lots of content to read on it.
+<strong>Course Description:</strong> One of the fundamental building block of data-science is algorithm designing. This course will contain significant content in art of algorithm designing. Then course will move toward combining those algorithms and mathematics to solve proposed problems. We will slowly move toward the direction of learning. You will be offered opportunity to design your own ML algorithms using modern tools. Assignments would be around competing among  yourself ( students ) on the matrix of precision and recall.  As a bonus to this course, last lecture will be around "briefing with modern tools and modern progress in ML". Exposure to techniques like Linear Regression, Logistic regression, Clustering,  Deep Learning ( mainly in NLP and Image Processing), and lots of other ML techniques used nowadays. Same lecture will also cover quick explanation on "how these techniques can help in real world problems". + You will be given lots of content to read on it.
 </p>
 <p>
 <strong>Prereq</strong>: Basic knowledge of Mathematics, Commitment for self-study and assignments.
